@@ -1,10 +1,6 @@
 
 
-# <h1 align="center"> ***Hello, I'm Moinul Hasan***  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">  </h1>
- <p align="center"> Full Stack Developer* </p>
-<p align="center">
-  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
-</p>
+![Demo GIF](banner.gif)
 <p align="center">
   <a href="https://www.linkedin.com/in/moinulhasan45777" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
