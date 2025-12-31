@@ -30,7 +30,7 @@
 
 <a name="learning-now"></a>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000?style=flat&logo=nextdotjs&link=https%3A%2F%2Fnextjs.org%2F)
 ![React](https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Nodejs-%235FA04E?style=flat&logo=nodedotjs&logoColor=white)
@@ -40,16 +40,16 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23DD2C00?style=flat&logo=firebase&link=express)
 ![Clerk Auth](https://img.shields.io/badge/Clerk%20Auth-%236C47FF?style=flat&logo=clerk&link=express)
 ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-%23000?style=flat&logo=tanstack&logoColor=white&link=express)
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Git](https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c)
 ![C#](https://img.shields.io/badge/C%23-%23000?style=flat&link=express)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)
+![Java](https://img.shields.io/badge/-Java-E34A86?style=flat&logo=java)
+![Python](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white)
 
 
 
@@ -57,7 +57,7 @@
 
 ## 📖  Currently learning
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![nest.js](https://img.shields.io/badge/nest.js-%23E0234E?style=flat&logo=nestjs&link=express)
 
 
