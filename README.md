@@ -78,11 +78,6 @@
 <div align="center">  
 
   <img src="https://streak-stats.demolab.com?user=moinulhasan45777&theme=tokyonight&hide_border=true" height="200" />  
-  <br><br>  
-  <img src="https://github-readme-stats.vercel.app/api?username=moinulhasan45777&show_icons=true&theme=tokyonight&hide_border=true" height="200" />  
-  <br><br>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moinulhasan45777&layout=compact&theme=tokyonight&hide_border=true" height="200" />  
-
 </div>
 
 ---
