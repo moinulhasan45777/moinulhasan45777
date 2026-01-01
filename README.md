@@ -75,10 +75,9 @@
 ---
 
 ## GitHub Stats & Activity  
-<div align="center">  
 
-  <img src="https://streak-stats.demolab.com?user=moinulhasan45777&theme=tokyonight&hide_border=true" height="200" />  
-</div>
+![GitHub Stats](https://streak-stats.demolab.com?user=moinulhasan45777&theme=radical&hide_border=true)
+
 
 ---
 
