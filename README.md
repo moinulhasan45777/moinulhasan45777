@@ -20,13 +20,13 @@
 ---
 
 ## About Me  
-  - 🔭 I’m currently Graduating from American International University-Bangladesh in CSE.
-  - 🌱 I’m actively contributing to various ***full stack*** projects.
-  - 💬 Ask me about eSports, Soccer and Anime.
-  - ⚡ Fun fact: I'm also an ***eSports athlete*** with 25+ domestic titles and multiple international appearences in ***counter strike***.
+  - I’m currently Graduating from American International University-Bangladesh in CSE.
+  - I’m actively contributing to various ***full stack*** projects.
+  - Ask me about eSports, Soccer and Anime.
+  - Fun fact: I'm also an ***eSports athlete*** with 25+ domestic titles and multiple international appearences in ***counter strike***.
 
 ---
-## 🛠  Technologies and tools
+## Technologies and tools
 
 <a name="learning-now"></a>
 
@@ -55,13 +55,13 @@
 
 <a name="learning-next"></a>
 
-## 📖  Currently learning
+## Currently learning
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![nest.js](https://img.shields.io/badge/nest.js-%23E0234E?style=flat&logo=nestjs&link=express)
 
 
-## 👾  Interested in learning
+## Interested in learning
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazon-aws)
