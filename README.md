@@ -83,7 +83,7 @@
 
 ## Languages  
 - 🇬🇧 English  
-- 🇧🇩 Bengali  
+- 🇧🇩 Bangla
 
 ---
 
